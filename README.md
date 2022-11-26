@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Toshitt
 - 👀 I’m interested in building highly scalable distributed systems.
-- 🌱 I’m currently learning the basics of Computer Networking and designs of different internet services.
+- 🌱 I’m currently learning the basics of Computer Networking and designing internet services.
 - 💞️ I’m looking to collaborate on open source projecys related to 
 
 <!---
